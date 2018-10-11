@@ -13,7 +13,8 @@ prj_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # 当前
 test_case_path = os.path.join(prj_path, 'test', 'case')   # 用例目录
 
 log_file = os.path.join(prj_path, 'log', 'log_{}.txt'.format(today))  # 更改路径到log目录下
-report_file = os.path.join(prj_path, 'report', 'report_{}.html'.format(now))  # 更改路径到report目录下
+# report_file = os.path.join(prj_path, 'report', 'report_{}.html'.format(now))  # 更改路径到report目录下
+report_file = os.path.join(prj_path, 'report', 'report.html')  # 更改路径到report目录下
 
 data_file = os.path.join(prj_path, 'data', 'test_user_data.xlsx')
 
