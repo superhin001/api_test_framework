@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="#" method="post">
+    {% for test in tests%}
+        <div><input type="checkbox" id="cases" name="cases" value="{{test}}">{{test}}</div>
+    {% endfor %}
+    <div><input type="submit" value="提交"></div>
+</form>
+</body>
+</html>

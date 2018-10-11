@@ -1,0 +1,169 @@
+[2018-09-29 15:28:12] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:28:13] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:28:13] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:28:13] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2018-09-29 15:28:31] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:28:32] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:28:32] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:28:32] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2018-09-29 15:28:49] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 15:28:49] "GET / HTTP/1.1" 404 -
+[2018-09-29 15:29:20] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\app.py', reloading
+[2018-09-29 15:29:20] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:29:29] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:29:30] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:29:30] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:29:30] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:6000/ (Press CTRL+C to quit)
+[2018-09-29 15:29:52] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:29:53] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:29:53] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:29:53] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:6000/ (Press CTRL+C to quit)
+[2018-09-29 15:30:31] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:30:32] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:30:32] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:30:32] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:6000/ (Press CTRL+C to quit)
+[2018-09-29 15:31:11] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:31:12] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:31:12] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:31:12] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:6000/ (Press CTRL+C to quit)
+[2018-09-29 15:31:39] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\app2.py', reloading
+[2018-09-29 15:31:39] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:31:40] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:31:40] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:31:40] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:31:40] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:6000/ (Press CTRL+C to quit)
+[2018-09-29 15:31:41] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:31:41] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:31:41] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:6000/ (Press CTRL+C to quit)
+[2018-09-29 15:33:45] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:33:46] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:33:46] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:33:46] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2018-09-29 15:34:06] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\app.py', reloading
+[2018-09-29 15:34:06] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:34:22] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:34:23] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:34:23] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:34:23] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:34:23] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2018-09-29 15:34:23] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:34:23] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2018-09-29 15:34:31] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\app.py', reloading
+[2018-09-29 15:34:31] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\app.py', reloading
+[2018-09-29 15:34:31] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:34:32] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:34:32] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:34:32] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:34:32] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:34:32] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2018-09-29 15:34:32] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2018-09-29 15:34:41] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:34:42] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:34:42] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:34:42] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2018-09-29 15:36:12] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:36:13] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:36:13] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:36:13] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2018-09-29 15:37:46] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:37:47] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:37:47] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:37:47] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+[2018-09-29 15:39:07] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:39:08] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:39:08] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:39:08] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+[2018-09-29 15:39:16] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-29 15:39:16] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:40:17] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 15:40:17] "GET /tests HTTP/1.1" 500 -
+[2018-09-29 15:40:17] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 15:40:17] "GET /tests?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-09-29 15:40:17] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 15:40:17] "GET /tests?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-09-29 15:40:17] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 15:40:17] "GET /tests?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-09-29 15:40:17] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 15:40:17] "GET /tests?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-09-29 15:40:17] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 15:40:17] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 15:40:17] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 15:40:17] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 15:40:31] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-29 15:42:03] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 15:42:03] "GET /tests HTTP/1.1" 200 -
+[2018-09-29 15:42:03] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 15:42:03] "GET /favicon.ico HTTP/1.1" 404 -
+[2018-09-29 15:47:59] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-29 15:48:00] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:48:00] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:48:00] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+[2018-09-29 15:48:03] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-29 15:48:04] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:48:04] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:48:05] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+[2018-09-29 15:48:13] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-29 15:48:14] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:48:14] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:48:14] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+[2018-09-29 15:49:46] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:49:47] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:49:47] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:49:47] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+[2018-09-29 15:50:19] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:50:20] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:50:20] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:50:20] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+[2018-09-29 15:50:27] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:50:28] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:50:28] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:50:28] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+[2018-09-29 15:50:33] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:50:34] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:50:34] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:50:34] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+[2018-09-29 15:50:39] INFO [_log: _internal.py, 88]  * Restarting with stat
+[2018-09-29 15:50:40] WARNING [_log: _internal.py, 88]  * Debugger is active!
+[2018-09-29 15:50:40] INFO [_log: _internal.py, 88]  * Debugger PIN: 264-501-557
+[2018-09-29 15:50:40] INFO [_log: _internal.py, 88]  * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+[2018-09-29 15:57:24] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 15:57:24] "GET /tests HTTP/1.1" 200 -
+[2018-09-29 16:00:08] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:00:08] "GET /tests HTTP/1.1" 500 -
+[2018-09-29 16:00:08] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:00:08] "GET /tests?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-09-29 16:00:08] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:00:08] "GET /tests?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-09-29 16:00:08] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:00:08] "GET /tests?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-09-29 16:00:08] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:00:08] "GET /tests?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-09-29 16:00:08] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:00:08] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:00:09] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:00:09] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:00:18] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:00:18] "GET /tests HTTP/1.1" 200 -
+[2018-09-29 16:00:33] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:00:33] "GET /tests HTTP/1.1" 200 -
+[2018-09-29 16:07:27] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-29 16:12:45] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:12:45] "GET /tests HTTP/1.1" 500 -
+[2018-09-29 16:12:45] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:12:45] "GET /tests?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-09-29 16:12:45] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:12:45] "GET /tests?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-09-29 16:12:45] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:12:45] "GET /tests?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-09-29 16:12:45] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:12:45] "GET /tests?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-09-29 16:12:45] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:12:45] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:12:46] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:12:46] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:15:33] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-29 16:15:37] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:37] "GET /tests HTTP/1.1" 500 -
+[2018-09-29 16:15:37] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:37] "GET /tests?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-09-29 16:15:37] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:37] "GET /tests?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-09-29 16:15:37] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:37] "GET /tests?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-09-29 16:15:37] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:37] "GET /tests?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-09-29 16:15:37] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:37] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:15:38] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:38] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:15:40] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:40] "GET /tests HTTP/1.1" 500 -
+[2018-09-29 16:15:40] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:40] "GET /tests?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-09-29 16:15:40] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:40] "GET /tests?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-09-29 16:15:40] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:40] "GET /tests?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-09-29 16:15:40] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:40] "GET /tests?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-09-29 16:15:40] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:40] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:15:40] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:40] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:15:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:41] "GET /tests HTTP/1.1" 500 -
+[2018-09-29 16:15:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:41] "GET /tests?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-09-29 16:15:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:41] "GET /tests?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-09-29 16:15:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:41] "GET /tests?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-09-29 16:15:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:41] "GET /tests?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-09-29 16:15:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:41] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:15:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:41] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:15:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:41] "GET /tests HTTP/1.1" 500 -
+[2018-09-29 16:15:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:41] "GET /tests?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-09-29 16:15:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:41] "GET /tests?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-09-29 16:15:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:41] "GET /tests?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-09-29 16:15:42] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:42] "GET /tests?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-09-29 16:15:42] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:42] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:15:42] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:42] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-29 16:15:52] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-29 16:15:55] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:15:55] "GET /tests HTTP/1.1" 200 -
+[2018-09-29 16:18:17] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:18:17] "GET /tests HTTP/1.1" 200 -
+[2018-09-29 16:18:40] INFO [_log: _internal.py, 88] 127.0.0.1 - - [29/Sep/2018 16:18:40] "GET /tests HTTP/1.1" 200 -

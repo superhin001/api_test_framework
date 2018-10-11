@@ -1,0 +1,170 @@
+[2018-09-30 10:42:13] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:42:13] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 10:42:14] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:42:14] "GET /favicon.ico HTTP/1.1" 404 -
+[2018-09-30 10:42:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:42:41] "GET /tests? HTTP/1.1" 200 -
+[2018-09-30 10:42:52] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:42:52] "GET /tests? HTTP/1.1" 200 -
+[2018-09-30 10:42:57] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:42:57] "GET /tests? HTTP/1.1" 200 -
+[2018-09-30 10:43:04] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:43:04] "GET /tests? HTTP/1.1" 200 -
+[2018-09-30 10:43:27] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-30 10:43:41] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:43:41] "GET /tests? HTTP/1.1" 200 -
+[2018-09-30 10:43:55] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-30 10:43:58] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:43:58] "GET /tests? HTTP/1.1" 200 -
+[2018-09-30 10:44:03] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:44:03] "GET /tests? HTTP/1.1" 200 -
+[2018-09-30 10:44:38] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:44:38] "GET /tests? HTTP/1.1" 200 -
+[2018-09-30 10:44:47] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:44:47] "POST / HTTP/1.1" 405 -
+[2018-09-30 10:45:12] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-30 10:45:17] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:45:17] "GET /tests? HTTP/1.1" 200 -
+[2018-09-30 10:45:21] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:45:21] "POST / HTTP/1.1" 405 -
+[2018-09-30 10:45:25] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:45:25] "POST / HTTP/1.1" 405 -
+[2018-09-30 10:45:36] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:45:36] "GET /tests? HTTP/1.1" 200 -
+[2018-09-30 10:45:38] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:45:38] "GET /tests? HTTP/1.1" 200 -
+[2018-09-30 10:45:42] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:45:42] "POST / HTTP/1.1" 405 -
+[2018-09-30 10:45:51] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:45:51] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 10:46:15] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:46:15] "POST / HTTP/1.1" 405 -
+[2018-09-30 10:46:19] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:46:19] "POST / HTTP/1.1" 405 -
+[2018-09-30 10:47:15] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:47:15] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 10:47:19] ERROR [get_tests: admin_api.py, 45] ImmutableMultiDict([])
+[2018-09-30 10:47:19] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:47:19] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 10:47:34] ERROR [get_tests: admin_api.py, 45] ImmutableMultiDict([])
+[2018-09-30 10:47:34] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:47:34] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 10:48:13] ERROR [get_tests: admin_api.py, 45] ImmutableMultiDict([])
+[2018-09-30 10:48:13] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:48:13] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 10:48:17] ERROR [get_tests: admin_api.py, 45] ImmutableMultiDict([('test_user_login_normal (user.test_user_login.TestUserLogin)', 'on')])
+[2018-09-30 10:48:17] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:48:17] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 10:48:21] ERROR [get_tests: admin_api.py, 45] ImmutableMultiDict([('test_user_login_normal (user.test_user_login.TestUserLogin)', 'on')])
+[2018-09-30 10:48:21] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:48:21] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 10:48:24] ERROR [get_tests: admin_api.py, 45] ImmutableMultiDict([('test_user_login_normal (user.test_user_login.TestUserLogin)', 'on')])
+[2018-09-30 10:48:24] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:48:24] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 10:48:25] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:48:25] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 10:48:26] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:48:26] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 10:48:34] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:48:34] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 10:48:42] ERROR [get_tests: admin_api.py, 45] ImmutableMultiDict([('test_user_login_normal (user.test_user_login.TestUserLogin)', 'on')])
+[2018-09-30 10:48:42] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 10:48:42] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 10:48:59] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\admin_api.py', reloading
+[2018-09-30 11:10:14] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:10:14] "GET /tests HTTP/1.1" 500 -
+[2018-09-30 11:10:14] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:10:14] "GET /tests?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-09-30 11:10:14] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:10:14] "GET /tests?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-09-30 11:10:14] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:10:14] "GET /tests?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-09-30 11:10:14] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:10:14] "GET /tests?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-09-30 11:10:14] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:10:14] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-30 11:10:14] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:10:14] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-30 11:10:39] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:10:39] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:11:07] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:11:07] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:11:08] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:11:08] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:12:14] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:12:14] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:12:25] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:12:25] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:12:39] ERROR [get_tests: api.py, 40] 4
+[2018-09-30 11:12:39] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:12:39] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:12:49] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:13:11] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:13:11] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:13:46] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:13:51] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:13:51] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:15:51] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:15:57] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:15:57] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:16:52] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:16:56] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:16:56] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:17:25] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:20:55] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:20:55] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:20:58] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:20:58] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:23:00] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:23:00] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:23:16] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:23:16] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:23:45] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:23:52] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:23:52] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:26:00] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:26:55] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:26:55] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:27:38] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:27:47] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_login_normal
+[2018-09-30 11:27:47] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/login/
+[2018-09-30 11:27:47] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "张三","password":"123456"}
+[2018-09-30 11:27:47] INFO [log_case_info: case_log.py, 13] 期望结果：<h1>登录成功</h1>
+[2018-09-30 11:27:47] INFO [log_case_info: case_log.py, 14] 实际结果：<h1>登录成功</h1>
+[2018-09-30 11:27:47] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:27:47] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:27:51] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_login_normal
+[2018-09-30 11:27:51] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/login/
+[2018-09-30 11:27:51] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "张三","password":"123456"}
+[2018-09-30 11:27:51] INFO [log_case_info: case_log.py, 13] 期望结果：<h1>登录成功</h1>
+[2018-09-30 11:27:51] INFO [log_case_info: case_log.py, 14] 实际结果：<h1>登录成功</h1>
+[2018-09-30 11:27:51] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:27:51] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:28:01] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:28:16] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:16] "POST /tests HTTP/1.1" 500 -
+[2018-09-30 11:28:16] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:16] "GET /tests?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-09-30 11:28:16] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:16] "GET /tests?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-09-30 11:28:16] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:16] "GET /tests?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-09-30 11:28:16] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:16] "GET /tests?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-09-30 11:28:16] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:16] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-30 11:28:16] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:16] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-30 11:28:37] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:28:44] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:44] "POST /tests HTTP/1.1" 500 -
+[2018-09-30 11:28:44] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:44] "GET /tests?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-09-30 11:28:44] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:44] "GET /tests?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-09-30 11:28:44] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:44] "GET /tests?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-09-30 11:28:44] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:44] "GET /tests?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-09-30 11:28:44] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:44] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-30 11:28:45] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:28:45] "GET /tests?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-09-30 11:29:07] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:29:09] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:29:09] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:29:14] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:29:14] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:29:23] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:29:23] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:30:51] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:30:51] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:31:28] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:31:28] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:31:31] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:31:31] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:31:33] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:31:33] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:31:35] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:31:35] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:31:48] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:31:48] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:31:51] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:31:51] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:31:54] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:31:54] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:32:01] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:32:01] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:33:43] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:33:43] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:33:46] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:33:46] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:33:55] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:33:55] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:33:57] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:33:57] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:34:00] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:34:00] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:34:05] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:34:05] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:39:59] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:39:59] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:40:07] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:40:07] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:40:19] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:40:24] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:40:24] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:40:50] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:40:50] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:40:54] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:40:54] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:41:36] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:41:43] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:41:43] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:41:46] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:41:46] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:41:48] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:41:48] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:47:47] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:48:32] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:48:32] "GET /tests HTTP/1.1" 200 -
+[2018-09-30 11:48:36] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:48:36] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:49:02] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:49:16] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_login_normal
+[2018-09-30 11:49:16] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/login/
+[2018-09-30 11:49:16] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "张三","password":"123456"}
+[2018-09-30 11:49:16] INFO [log_case_info: case_log.py, 13] 期望结果：<h1>登录成功</h1>
+[2018-09-30 11:49:16] INFO [log_case_info: case_log.py, 14] 实际结果：<h1>登录成功</h1>
+[2018-09-30 11:49:16] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_login_password_wrong
+[2018-09-30 11:49:16] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/login/
+[2018-09-30 11:49:16] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "张三","password":"1234567"}
+[2018-09-30 11:49:16] INFO [log_case_info: case_log.py, 13] 期望结果：<h1>失败，用户名或密码错误</h1>
+[2018-09-30 11:49:16] INFO [log_case_info: case_log.py, 14] 实际结果：<h1>失败，用户名或密码错误</h1>
+[2018-09-30 11:49:16] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:49:16] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:49:37] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_login_normal
+[2018-09-30 11:49:37] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/login/
+[2018-09-30 11:49:37] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "张三","password":"123456"}
+[2018-09-30 11:49:37] INFO [log_case_info: case_log.py, 13] 期望结果：<h1>登录成功</h1>
+[2018-09-30 11:49:37] INFO [log_case_info: case_log.py, 14] 实际结果：<h1>登录成功</h1>
+[2018-09-30 11:49:37] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_login_password_wrong
+[2018-09-30 11:49:37] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/login/
+[2018-09-30 11:49:37] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "张三","password":"1234567"}
+[2018-09-30 11:49:37] INFO [log_case_info: case_log.py, 13] 期望结果：<h1>失败，用户名或密码错误</h1>
+[2018-09-30 11:49:37] INFO [log_case_info: case_log.py, 14] 实际结果：<h1>失败，用户名或密码错误</h1>
+[2018-09-30 11:49:37] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:49:37] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:49:48] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
+[2018-09-30 11:50:02] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_login_normal
+[2018-09-30 11:50:02] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/login/
+[2018-09-30 11:50:02] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "张三","password":"123456"}
+[2018-09-30 11:50:02] INFO [log_case_info: case_log.py, 13] 期望结果：<h1>登录成功</h1>
+[2018-09-30 11:50:02] INFO [log_case_info: case_log.py, 14] 实际结果：<h1>登录成功</h1>
+[2018-09-30 11:50:02] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_login_password_wrong
+[2018-09-30 11:50:02] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/login/
+[2018-09-30 11:50:02] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "张三","password":"1234567"}
+[2018-09-30 11:50:02] INFO [log_case_info: case_log.py, 13] 期望结果：<h1>失败，用户名或密码错误</h1>
+[2018-09-30 11:50:02] INFO [log_case_info: case_log.py, 14] 实际结果：<h1>失败，用户名或密码错误</h1>
+[2018-09-30 11:50:02] INFO [_log: _internal.py, 88] 127.0.0.1 - - [30/Sep/2018 11:50:02] "POST /tests HTTP/1.1" 200 -
+[2018-09-30 11:51:54] INFO [_log: _internal.py, 88]  * Detected change in 'C:\\Users\\hanzhichao\\PycharmProjects\\api_test_framework_finish2\\api.py', reloading
