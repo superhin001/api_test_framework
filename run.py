@@ -1,11 +1,12 @@
 import unittest
-from lib.HTMLTestReportCN import HTMLTestRunner
+# from lib.HTMLTestReportCN import HTMLTestRunner
 from config import config as cf
 from lib.send_email import send_email
 import pickle
 import sys
 from test.suite.test_suites import *
 import time
+from lib.HTMLTestRunner_PY3 import HTMLTestRunner
 
 
 def discover():
@@ -65,7 +66,7 @@ def run(suite):
     cf.logging.info("================================== 测试开始 ==================================")
 
     with open(cf.report_file, 'wb') as f:  # 从配置文件中读取
-        result = HTMLTestRunner(stream=f, title="Api Test", description="测试描述", tester="卡卡").run(suite)
+        result = HTMLTestRunner(stream=f, title="Api Test", description="测试描述").run(suite)
 
     if result.failures:
         save_failures(result, cf.last_fails_file)
